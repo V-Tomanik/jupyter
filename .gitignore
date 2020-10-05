@@ -1,5 +1,3 @@
-# Ignorar a pasta data (contem os csv's)
-data/
 
 # Ignorar todos os arquivos historico do jupyter
 *.ipynb_checkpoints
